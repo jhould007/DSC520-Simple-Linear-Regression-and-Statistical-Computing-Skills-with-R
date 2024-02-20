@@ -1,6 +1,8 @@
 # DSC520 Simple Linear Regression and Statistical Computing Skills with R
  An assignment for DSC520 at GCU that focused on implementation of simple linear regression and development of fundamental statistical skills in R.
 
+ Check out the full report ![here.](https://github.com/jhould007/DSC520-Simple-Linear-Regression-and-Statistical-Computing-Skills-with-R/blob/main/Simple%20Linear%20Regression%20and%20Statistical%20Computing%20Skills%20with%20R.ipynb)
+
  # Assignment Instructions
  
 Special Note: Throughout this course, you will perform activities that will provide you with the background knowledge and practice necessary to successfully complete linear regression and multivariate analysis. Please utilize the resources found in Class Resources and the topic Resources to assist you with each exercise.
